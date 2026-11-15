@@ -1,10 +1,10 @@
 {
-  "version": "2.6.15",
-  "url": "https://github.com/Aziz898/scale-factory-desk/releases/download/pos-v2.6.15/ScalePos2-Setup.zip",
-  "sha256": "12c5be9aaddf0d331d7a6c8dbba1093a94acbdfacc54185d065cd55b0a89e9eb",
-  "size": 133338220,
+  "version": "2.6.16",
+  "url": "https://github.com/Aziz898/scale-factory-desk/releases/download/pos-v2.6.16/ScalePos2-Setup.zip",
+  "sha256": "c127d0fbb6bc723c159a519c0873a6eedb2ee9b964597ba0537efee2359e0162",
+  "size": 133372000,
   "manualUpdate": true,
-  "fullUrl": "https://github.com/Aziz898/scale-factory-desk/releases/download/pos-v2.6.15/ScalePos2-Full-Setup.zip",
-  "fullSha256": "e9b5ffd846660d7be98b0ea74c187b6b2648264664f5c7ea8469d5334ed18994",
-  "fullSize": 160586845
+  "fullUrl": "https://github.com/Aziz898/scale-factory-desk/releases/download/pos-v2.6.16/ScalePos2-Full-Setup.zip",
+  "fullSha256": "44e96b97a3d0d17342e6eeff9f1c3e7574f3e05c4c858bdf5be407149a056cb4",
+  "fullSize": 160620626
 }
